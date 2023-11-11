@@ -1,5 +1,22 @@
 # Abgabe_1_TysAna
 Internals HTML CSS
 
-How to Use: 
-1. Please download the files and open up following file: HTMLPage_Abgabe_2_TysAna.html.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
+
+## General info
+This project is a simple single page application. It shows a list of the Kubrick movies.
+	
+## Technologies
+Project is created with:
+* HTML
+* CSS
+
+## Setup
+To run this project, install it locally and open the HTMLPage_Abgabe_2_TysAna.html file:
+
+```
+$ cd ../HTMLPage_Abgabe_2_TysAna.html
+```
