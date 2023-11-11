@@ -18,6 +18,5 @@ Project is created with:
 To run this project, install it locally and open the HTMLPage_Abgabe_2_TysAna.html file:
 
 ```
-$ cd ../HTMLPage_Abgabe_2_TysAna.html
-$ cd C:\path\to\msedge.exe index.html
+$ C:\path\to\msedge.exe HTMLPage_Abgabe_2_TysAna.html
 ```
