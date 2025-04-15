@@ -1,4 +1,4 @@
-# Abgabe_2_TysAna
+# kubrick-movies a single-page-application
 Internals HTML CSS
 
 ## Table of contents
